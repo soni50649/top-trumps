@@ -1,0 +1,15 @@
+{
+  "name": "top-trumps",
+  "version": "1.0.0",
+  "description": "week 4 project starter for SWE2.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "live-server --port=3000 --mount=/:public"
+  },
+  "author": "multiverse",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

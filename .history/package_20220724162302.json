@@ -1,0 +1,12 @@
+{
+  "name": "top-trumps",
+  "version": "1.0.0",
+  "description": "week 4 project starter for SWE2.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
