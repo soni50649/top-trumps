@@ -11,17 +11,24 @@ body{
 #Me{
     color: green;
     text-align: center;
-    border: groove;
+    padding: 50px;
+    border: solid black 500px;
     border-width: thick;
     display: flex;
+    justify-content: left;
+    align-items: flex-start;
     flex-direction: column;
+   
 }
 
 #Enemy{
 color: red;
 text-align: center;
-border: groove;
+padding: 50px;
+border: solid black 500px;
 border-width: thick;
 display: flex;
+justify-content: right;
+align-items: flex-end;
 flex-direction: column;
 }
