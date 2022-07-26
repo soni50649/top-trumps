@@ -1,0 +1,27 @@
+body{
+    /*background-color: aqua;*/
+    background-image: url(https://bleedingcool.com/wp-content/uploads/2021/06/Pikachu-color-model-publicity-cel-1200x900.jpg);
+}
+
+#Name{
+    text-align: center;
+    border: double;
+}
+
+#Me{
+    color: green;
+    text-align: center;
+    border: groove;
+    border-width: thick;
+    display: flex;
+    flex-direction: column;
+}
+
+#Enemy{
+color: red;
+text-align: center;
+border: groove;
+border-width: thick;
+display: flex;
+flex-direction: column;
+}
