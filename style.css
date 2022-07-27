@@ -24,6 +24,7 @@ body{
     color: green;
     text-align: center;
     width: 50%;
+    height: 500px;
     padding: 50px;
     border: solid black 500px;
     border-width: thick;
@@ -38,11 +39,12 @@ body{
 color: red;
 text-align: center;
 width: 50%;
+height: 500px;
 padding: 50px;
 border: solid black 500px;
 border-width: thick;
 display: flex;
 justify-content: right;
-align-items: flex-end;
+align-items: flex-start;
 
 }
