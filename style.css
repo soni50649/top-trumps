@@ -48,3 +48,46 @@ justify-content: right;
 align-items: flex-start;
 
 }
+
+#Play{
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  display: inline-block;
+  justify-content: flex-end;
+  align-items: flex-end;
+  font-size: 16px;
+}
+
+
+#Pause{
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  display: inline-block;
+  justify-content: flex-end;
+  align-items: flex-end;
+  font-size: 16px;
+}
+
+#Exit{
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  display: inline-block;
+  justify-content: flex-end;
+  align-items: flex-end;
+  font-size: 16px;
+}
